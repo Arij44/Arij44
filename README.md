@@ -1,8 +1,11 @@
-### Welcome to My GitHub! 👋
+### 👋 Hi, I’m Arij Whibi
 
-Hi there! I’m Arij Whibi, an AI engineering student with a strong passion for building innovative AI-driven solutions. Currently, I’m exploring the intersection of AI, data science, and software development through academic projects, internships, and personal endeavors.
+I’m an AI engineer with a background in machine learning, natural language processing, and intelligent systems. My work spans from research explorations to practical projects, and this space is where I share what I build and learn along the way.
 
-<!---
-Arij44/Arij44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+🔗 [LinkedIn](https://www.linkedin.com/in/arij-whibi) 
+
+📧 [Email](mailto:whibiarij@gmail.com)
+
+
+
